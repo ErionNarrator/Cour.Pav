@@ -155,7 +155,7 @@ namespace Cour.Pav.ModelView
             using (var context = new AucitonContext())
             {
                 var userA = (Amd == LoginBuyer && Amd == password);
-                if (userA != null)
+                if (userA = userA)
                 {
                     OpenMainWindow();
 
